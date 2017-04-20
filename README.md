@@ -1,2 +1,2 @@
 # hmralert
-test
+hmralert project version 0.1
